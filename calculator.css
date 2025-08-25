@@ -27,6 +27,13 @@ h1, h2, h3, h4, h5, h6, p {
   color: #004466;
 }
 
+/* Need to confirm why the border-radius property isn't changing, make text larger*/
+button {
+  color: #aba9c6;
+  background-color: #57593c;
+  border: #57593c 20px; 
+}
+
 .calculations {
   border-radius: 3px;
 }
