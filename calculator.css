@@ -32,8 +32,14 @@ button {
   color: #aba9c6;
   background-color: #57593c;
   border: #57593c 20px; 
+  /* Need to determine how to properly center*/
 }
 
 .calculations {
   border-radius: 3px;
+}
+
+div {
+  width: 5vw;
+  height: 5wh;
 }
