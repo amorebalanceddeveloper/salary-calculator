@@ -9,3 +9,4 @@ Simple calculator that breaks down various pay periods for a 52-week work period
 - ["font-family", MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 - [Favicon generator](https://favicon.io/favicon-converter/)
 - ["border" property](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+- ["Adding a favicon to a static HTML page", StackOverflow](https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page)
