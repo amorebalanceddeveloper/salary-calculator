@@ -8,4 +8,5 @@ function calculate() {
   let monthly30Days = 30;
   let monthly31Days = 31;
   let yearMonthCount = 12;
+  let button = getElementById("calculateButton");
 }
