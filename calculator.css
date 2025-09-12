@@ -40,3 +40,8 @@ div {
   width: 5vw;
   height: 5wh;
 }
+
+img {
+  border-radius: 10px;
+  align-content: center;
+}
