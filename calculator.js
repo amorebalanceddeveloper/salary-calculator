@@ -1,4 +1,4 @@
-function calculate() {
+function calculate(salary) {
   let salary;
   let timeRate;
   let finalSalaryAmount;
